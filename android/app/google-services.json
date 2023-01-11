@@ -1,0 +1,47 @@
+{
+  "project_info": {
+    "project_number": "49398351332",
+    "project_id": "ardram-806e1",
+    "storage_bucket": "ardram-806e1.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:49398351332:android:d5492d0fe32786b870b3f1",
+        "android_client_info": {
+          "package_name": "com.example.ardram"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "49398351332-cbdv5c2n9el0uco8aump7e4kso7lroii.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.ardram",
+            "certificate_hash": "c3281ecb174c6e796d0f46a1c1eae4e3db5fd0ac"
+          }
+        },
+        {
+          "client_id": "49398351332-40tjatiin1hs2bmq7kev8q8t52uu0bvq.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyApl8-LppcdRcJaganlTRvymhEz5f9QPLU"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "49398351332-40tjatiin1hs2bmq7kev8q8t52uu0bvq.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
